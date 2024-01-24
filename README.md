@@ -1,1 +1,1 @@
-# mikhay
+linked list
